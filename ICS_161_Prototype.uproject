@@ -3,6 +3,7 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+<<<<<<< Updated upstream
 	"Modules": [
 		{
 			"Name": "ICS_161_Prototype",
@@ -12,5 +13,11 @@
 				"Engine"
 			]
 		}
+=======
+	"TargetPlatforms": [
+		"AllDesktop",
+		"MacNoEditor",
+		"WindowsNoEditor"
+>>>>>>> Stashed changes
 	]
 }
