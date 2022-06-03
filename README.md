@@ -2,11 +2,11 @@
 
 Developed with Unreal Engine 4
 
-Controls:
-Movement - WASD
-Jump - Space
-Grapple - Q
-Release Grapple - E
+Controls: <br />
+Movement - WASD <br />
+Jump - Space <br />
+Grapple - Q <br />
+Release Grapple - E <br />
 
 
 Two primary features
